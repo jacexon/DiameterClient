@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Diameter">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/lib/Diameter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
