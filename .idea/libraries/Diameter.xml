@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="Diameter">
     <CLASSES>
-      <root url="jar://$APPLICATION_HOME_DIR$/jre/lib/Diameter.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Diameter.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
