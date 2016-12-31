@@ -1,0 +1,6 @@
+1. działa poprawnie
+2. złe hasło
+3. brak uzytkownika
+4. źle rozwiązane zadanie - zmieniamy sekret w kliencie
+5. timeout - dodajemy sleepa
+6. powtorzenie - wysylamy podobnie
